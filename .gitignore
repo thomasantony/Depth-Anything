@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__
+*.webm
+*.mp4
+*.jpg
+*.png
